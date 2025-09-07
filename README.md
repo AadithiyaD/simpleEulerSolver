@@ -1,12 +1,9 @@
 # README
 
-Run the exe from the project root. The write out directive assumes this
+Euler solver written from cfd.university First CFD solver ebook. I've also made some extra extensions to the code
 
-things I could try implementing:
+The point of this repo is to be my first real attempt at developing a solver, and to improve my understanding of
+the numerics involved
 
-- Method of Manufactured solutions to verify code
-- New flux limiters
-- New reconstructions schemes
-- Turbulence model(?)
-- post processing python script
-- Different riemann solvers?
+Run the exe from the project root; The write out directive assumes this.
+
