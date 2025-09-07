@@ -1,0 +1,26 @@
+[
+{
+  "directory": "C:/Users/HP/desktop/CodingPractice/CFD-Random-Bullshittery/teschner-solver-extend/build",
+  "command": "C:\\Strawberry\\c\\bin\\g++.exe -IC:/Users/HP/desktop/CodingPractice/CFD-Random-Bullshittery/teschner-solver-extend/include -g -std=gnu++17 -o CMakeFiles\\mySolver.dir\\main.cpp.obj -c C:\\Users\\HP\\desktop\\CodingPractice\\CFD-Random-Bullshittery\\teschner-solver-extend\\main.cpp",
+  "file": "C:/Users/HP/desktop/CodingPractice/CFD-Random-Bullshittery/teschner-solver-extend/main.cpp",
+  "output": "C:/Users/HP/desktop/CodingPractice/CFD-Random-Bullshittery/teschner-solver-extend/build/CMakeFiles/mySolver.dir/main.cpp.obj"
+},
+{
+  "directory": "C:/Users/HP/desktop/CodingPractice/CFD-Random-Bullshittery/teschner-solver-extend/build",
+  "command": "C:\\Strawberry\\c\\bin\\g++.exe -IC:/Users/HP/desktop/CodingPractice/CFD-Random-Bullshittery/teschner-solver-extend/include -g -std=gnu++17 -o CMakeFiles\\mySolver.dir\\src\\postProcessor.cpp.obj -c C:\\Users\\HP\\desktop\\CodingPractice\\CFD-Random-Bullshittery\\teschner-solver-extend\\src\\postProcessor.cpp",
+  "file": "C:/Users/HP/desktop/CodingPractice/CFD-Random-Bullshittery/teschner-solver-extend/src/postProcessor.cpp",
+  "output": "C:/Users/HP/desktop/CodingPractice/CFD-Random-Bullshittery/teschner-solver-extend/build/CMakeFiles/mySolver.dir/src/postProcessor.cpp.obj"
+},
+{
+  "directory": "C:/Users/HP/desktop/CodingPractice/CFD-Random-Bullshittery/teschner-solver-extend/build",
+  "command": "C:\\Strawberry\\c\\bin\\g++.exe -IC:/Users/HP/desktop/CodingPractice/CFD-Random-Bullshittery/teschner-solver-extend/include -g -std=gnu++17 -o CMakeFiles\\mySolver.dir\\src\\preProcessor.cpp.obj -c C:\\Users\\HP\\desktop\\CodingPractice\\CFD-Random-Bullshittery\\teschner-solver-extend\\src\\preProcessor.cpp",
+  "file": "C:/Users/HP/desktop/CodingPractice/CFD-Random-Bullshittery/teschner-solver-extend/src/preProcessor.cpp",
+  "output": "C:/Users/HP/desktop/CodingPractice/CFD-Random-Bullshittery/teschner-solver-extend/build/CMakeFiles/mySolver.dir/src/preProcessor.cpp.obj"
+},
+{
+  "directory": "C:/Users/HP/desktop/CodingPractice/CFD-Random-Bullshittery/teschner-solver-extend/build",
+  "command": "C:\\Strawberry\\c\\bin\\g++.exe -IC:/Users/HP/desktop/CodingPractice/CFD-Random-Bullshittery/teschner-solver-extend/include -g -std=gnu++17 -o CMakeFiles\\mySolver.dir\\src\\solver.cpp.obj -c C:\\Users\\HP\\desktop\\CodingPractice\\CFD-Random-Bullshittery\\teschner-solver-extend\\src\\solver.cpp",
+  "file": "C:/Users/HP/desktop/CodingPractice/CFD-Random-Bullshittery/teschner-solver-extend/src/solver.cpp",
+  "output": "C:/Users/HP/desktop/CodingPractice/CFD-Random-Bullshittery/teschner-solver-extend/build/CMakeFiles/mySolver.dir/src/solver.cpp.obj"
+}
+]

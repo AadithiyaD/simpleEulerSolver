@@ -1,0 +1,7 @@
+# ninja log v5
+4	2441	7776467972271726	CMakeFiles/mySolver.dir/mySolver.cpp.obj	83519f7a97a1dcf1
+1169	1615	7779247047031627	mySolver.exe	f62c6151d7c45839
+30	591	7779247036821132	CMakeFiles/mySolver.dir/src/preProcessor.cpp.obj	24eac5a18e0e1c20
+32	613	7779247037026248	CMakeFiles/mySolver.dir/src/solver.cpp.obj	38658cee1140f28b
+23	627	7779247037167469	CMakeFiles/mySolver.dir/main.cpp.obj	a086094e18f9fc08
+27	1169	7779247042609234	CMakeFiles/mySolver.dir/src/postProcessor.cpp.obj	9ddef8935d274aa1
